@@ -17,7 +17,7 @@ namespace Demo.tests
             var resultado = calculadora.Somar(2, 2);
 
             // Assert
-            Assert.Equal(41, resultado);
+            Assert.Equal(4, resultado);
         }
     }
 }
