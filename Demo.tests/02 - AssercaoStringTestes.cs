@@ -72,7 +72,7 @@ namespace Demo.tests
         }
 
         [Fact]
-        public void UnirStrings_ValidarExpressoRegular()
+        public void UnirStrings_ValidarExpressoesRegular()
         {
             //Arrange
 
